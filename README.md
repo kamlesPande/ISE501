@@ -1,3 +1,3 @@
 # ISE501
 Assignments
-Fall 2021 ISE501 Operation Research Assignments solved in Julia 
+Fall 2021 ISE501 Operation Research  solved in Julia 
